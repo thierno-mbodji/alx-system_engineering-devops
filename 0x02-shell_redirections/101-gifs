@@ -1,0 +1,1 @@
+find . -name "*.gif" -prinf '%f\n' | sort
