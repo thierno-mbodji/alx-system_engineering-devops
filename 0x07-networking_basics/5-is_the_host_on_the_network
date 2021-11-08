@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Pings the IP address passed to it as an argument
 
 if [ $# -eq 0  ];
