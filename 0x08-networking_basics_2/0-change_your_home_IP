@@ -1,4 +1,4 @@
-#!/usr/bin//env bash
+#!/usr/bin/env bash
 # configures Ubuntu server
 oldfile="/etc/hosts"
 newfile="$HOME/hosts.new"
